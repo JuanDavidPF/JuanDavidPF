@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I'm Juan David Payán, but you can just call me Payosky. 😊 I'm a passionate developer who adores crafting cool stuff. 🚀 Currently, I'm rocking the role of a Senior Game Programmer in the Videogames industry. 🎮 At the moment, I'm hustling to wrap up my portfolio site while kicking off some exciting internal side-projects with my buddies. 💻 I've got experience as a UI-UX Designer, Full Stack Web Developer, and, of course, as a Game Developer (Unity-Unreal). 🎨💻 Loving every bit of the new challenges and unknowns as opportunities to learn and grow! 🌱
+Hey there! I'm Juan David Payán, but you can just call me Payosky. 😊 I'm a passionate developer who adores crafting cool stuff. 🚀 Currently, I'm rocking the role of a Senior Game Programmer in the Videogames industry. 🎮 At the moment, I'm hustling to wrap up my portfolio site while kicking off some exciting internal side projects with my buddies. 💻 I've got experience as a UI-UX Designer, Full Stack Web Developer, and, of course, as a Game Developer (Unity-Unreal). 🎨💻 Loving every bit of the new challenges and unknowns as opportunities to learn and grow! 🌱
 
 
 ## 🌐 Socials:
